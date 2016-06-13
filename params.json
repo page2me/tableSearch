@@ -1,0 +1,6 @@
+{
+  "name": "Tablesearch",
+  "tagline": "",
+  "body": "# tableSearch\r\nA JavaScript library that lets you search for values in your HTML table.\r\nhttp://203.158.252.11/phpMySQLSearchRecord.php\r\nSimilar: https://github.com/hasgeek/tablesearch https://github.com/javve/list.js\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
